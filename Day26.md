@@ -50,7 +50,7 @@ This guide describes how to set up AWS CodePipeline to automatically create Dock
        commands:
          - echo Pushing the Docker image...
          - docker push yourusername/yourrepository:tag
-         - echo Build completed on `date````
+         - echo Build completed on `date` ```
    
 Replace `yourusername/yourrepository:tag` with your Docker Hub repository and desired tag.
 
