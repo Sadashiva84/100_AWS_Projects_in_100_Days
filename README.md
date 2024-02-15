@@ -24,7 +24,8 @@
 23. Create Step Functions and API Gateway that Automatically Backsup S3 buckets and Objects based on the API request
 24. Create Step Functions and API Gateway that Automatically creates volume snapshots and RDS snapshots based on the API request
 25. Setup a functioning Promethius, Grafana, Helm Charts and GitOps for an EKS cluster
-26. 
+26. Create AWS Code Pipelines to update ECR and Dockerhub images
+27. 
 
 
 90. Create a Mobile App and Website Building Agency Using AWS EC2 or Lambda & API Gateway
